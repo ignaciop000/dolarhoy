@@ -8,7 +8,7 @@ class Header extends Component {
           <MDBContainer fluid>
             <MDBRow >
               <MDBCol size="12">            
-                <img src="images/logo-currency.png" className="img-fluid" alt="" />
+                <img src="images/logo-currency1.png" className="img-fluid" alt="" />
               </MDBCol >
             </MDBRow>          
           </MDBContainer>
